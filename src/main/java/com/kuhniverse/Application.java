@@ -19,8 +19,14 @@ public class Application {
     private static final Logger LOG = LoggerFactory.getLogger(Application.class);
 
     public static void main(String[] args) {
-
+        int i=0;
         ApplicationContext ctx = SpringApplication.run(Application.class, args);
+     
+     
         LOG.debug("Application {} started",ctx.getApplicationName());
     }
+    private void test(){
+    int j=1
+    }
+     
 }
