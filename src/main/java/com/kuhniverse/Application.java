@@ -26,7 +26,7 @@ public class Application {
         LOG.debug("Application {} started",ctx.getApplicationName());
     }
     private void test(){
-    int j=1
+    int j=1;
     }
      
 }
