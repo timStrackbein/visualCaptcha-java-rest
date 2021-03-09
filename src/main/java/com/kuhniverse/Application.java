@@ -7,6 +7,7 @@ import org.springframework.context.ApplicationContext;
 
 /**
  * @author timafe on 22.05.2015.
+ adding meaningless comment
  */
 
 /**
